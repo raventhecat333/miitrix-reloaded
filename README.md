@@ -3,3 +3,4 @@
 # miitrix
 
 Miitrix is a [matrix](https://matrix.org) client written for the Nintendo 3DS. It requires [matrix-3ds-sdk](https://github.com/Sorunome/matrix-3ds-sdk/) to be compiled.
+compile with ```makerom -o miitrix.cxi -rsf miitrix.rsf -target t -elf miitrix.elf -icon icon.icn -banner banner.bnr -desc app:4```
